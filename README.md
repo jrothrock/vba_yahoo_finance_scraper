@@ -2,9 +2,7 @@
 
 ** Note, this will only work on Windows due to needing ActiveX **
 
-## About
-
-This was used for my final project in my MGMT 3220 (Business Application Programming) class. 
+** Also, this will only work on 32bit office products, as MSScriptControl.Scriptcontrol was removed from 64bit products. **
 
 ## How It Works
 
